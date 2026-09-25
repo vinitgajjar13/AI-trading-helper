@@ -1,0 +1,6 @@
+{
+  "name": "TradeMind AI",
+  "description": "AI-powered trading assistant chatbot for technical analysis, chart breakdowns, trade setups, risk management, and market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
